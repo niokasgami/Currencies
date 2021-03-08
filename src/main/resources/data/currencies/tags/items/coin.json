@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "currencies:coin_copper",
+    "currencies:coin_iron",
+    "currencies:coin_gold",
+    "currencies:coin_platinum",
+    "currencies:coin_diamond"
+  ]
+}

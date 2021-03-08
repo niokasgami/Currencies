@@ -1,0 +1,16 @@
+[
+{
+  "modid": "currencies",
+  "name": "Town Currencies",
+  "description": "offers coins in minecraft. Port from the original coins mod in 1.16.5",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nio Kasgami", "Darkhas"],
+  "credits": "nio kasgami for the port and darkhas for the original mods",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
