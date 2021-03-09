@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "minecraft:iron_ingot"
   },
-  "result": "coins:coin_iron",
+  "result": "currencies:coin_iron",
   "experience": 0.7,
   "cookingtime": 100
 }

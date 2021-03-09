@@ -1,4 +1,4 @@
-package items;
+package net.niokasgami.currencies.items;
 
 import net.minecraft.item.Item;
 

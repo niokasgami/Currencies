@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "coins",
+  "group": "currencies",
   "ingredients": [
     {
-      "item": "coins:coin_pile_diamond"
+      "item": "currencies:iron_coin_pile"
     }
   ],
   "result": {
-    "item": "coins:coin_diamond",
+    "item": "currencies:iron_coin",
     "count": 9
   }
 }

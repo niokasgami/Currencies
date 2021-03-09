@@ -3,7 +3,7 @@
   "modid": "currencies",
   "name": "Town Currencies",
   "description": "offers coins in minecraft. Port from the original coins mod in 1.16.5",
-  "version": "${version}",
+  "version": "1.0.0",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
